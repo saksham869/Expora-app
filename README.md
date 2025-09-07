@@ -150,6 +150,4 @@ As a developer and data science enthusiast, I’m building Expora to create a sa
 
 If you believe in Expora’s mission, give this repo a star ⭐ and join the journey to make human growth more honest and connected.
 
-Maven
 
-MySQL/Postgres (or your chosen DB)
