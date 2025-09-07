@@ -143,8 +143,8 @@ Submit a Pull Request
 👋 Hi, I’m Satyam Mishra – Founder of Expora.
 As a developer and data science enthusiast, I’m building Expora to create a safe, authentic digital sanctuary where vulnerability is celebrated, not judged.
 
-📩 Connect: LinkedIn
- | Email
+📩 Connect: www.linkedin.com/in/satyam-mishra-7716b025b
+ 
 
 ⭐ Support
 
